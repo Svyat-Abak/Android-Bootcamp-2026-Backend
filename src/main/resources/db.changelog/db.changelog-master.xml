@@ -7,8 +7,14 @@
 
     <include file="db.changelog/1.0/2026-02-04--0001-department.xml"/>
     <include file="db.changelog/1.0/2026-02-04--0002-person.xml"/>
+    <include file="db.changelog/1.0/2026-02-06--0003-authority.xml"/>
+    <include file="db.changelog/1.0/2026-02-06--0004-person-authorities.xml"/>
 
     <include file="db.changelog/data/2026-02-04--0001-department-data.xml"/>
     <include file="db.changelog/data/2026-02-04--0002-person-data.xml"/>
+    <include file="db.changelog/data/2026-02-06--0003-authority-data.xml"/>
+    <include file="db.changelog/data/2026-02-06--0004-person-authorities-data.xml"/>
+
+
 
 </databaseChangeLog>
